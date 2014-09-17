@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Sem1 Exercise
+#
+
+projectname: Sem1 Exercise
+vendorid: com.sem1
+mainmodule: com.sem1.sem1exercise
